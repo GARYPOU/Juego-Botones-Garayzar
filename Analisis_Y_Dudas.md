@@ -41,4 +41,3 @@ A su vez, me quedaron algunas dudas no aclaradas en el Challenge, como por ejemp
 - Si se deberia mostrar el tiempo restante durante el juego.
 - Hacia que usuarios y con que fines esta destinado este juego.
 - Las limitaciones tecnicas o de diseno que se tienen.
-'''
