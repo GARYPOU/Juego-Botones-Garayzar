@@ -1,9 +1,9 @@
-import JuegoContador from './JuegoContador.jsx'
+import JuegoContadorGPT from './JuegoContadorGPT.jsx'
 
 function App() {
   return (
     <>
-      <JuegoContador />
+      <JuegoContadorGPT />
     </>
   )
 }
